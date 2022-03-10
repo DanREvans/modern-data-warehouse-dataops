@@ -12,10 +12,10 @@ AZDO_ORGANIZATION_URL=https://dev.azure.com/danielrichardevans/
 # REQUIRED. Environment variables for deployment script
 
 # Name of your imported github repo in this form `<my_github_handle>/<repo>`. (ei. "devlace/mdw-dataops-import")
-GITHUB_REPO=DanREvans/modern-data-warehouse-dataops
+GITHUB_REPO="DanREvans/modern-data-warehouse-dataops"
 
 # a Github PAT token. Generate them [here](https://github.com/settings/tokens). This requires "repo" scope.
-GITHUB_PAT_TOKEN=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
+GITHUB_PAT_TOKEN="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"
 
 
 ###
